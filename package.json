@@ -41,7 +41,7 @@
     "next": "13.2.3",
     "pino": "^8.11.0",
     "pino-pretty": "^9.4.0",
-    "react": "18.2.0",
+    "react": "18.3.1",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.43.3",
     "swr": "^2.0.4"
